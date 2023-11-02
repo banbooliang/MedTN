@@ -1,4 +1,1 @@
-# MedTN
-We constructed a Chinese Medical Terms dataset based on the QiZhen Medical Knowledge Base called CMT. The data within the Qizhen Medical Knowledge Base comes from various sources, including diagnosis and treatment experience of clinical guidelines, medical standards, references, medical textbooks and so on. After collecting the data, we employed some algorithms such as Sentence-BERT, TextRank, KeyBERT and so on to extract the corresponding terms and synonyms. To ensure the accuracy and authenticity of the extracted terms, multiple rounds of analysis, verification and checks were performed by Medical experts. The dataset mainly contains medical terms with similar word forms but different semantics or different word forms but the same semantics.
-In addition, we constructed CSKB dataset based on Chinese Symptom Knowledge Base (CSKB).
-QiZhen Medical Knowledge Base：http://www.mk-base.com/#/official/home
+
